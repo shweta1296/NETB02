@@ -5,7 +5,7 @@ public class Demo {
 	{
 		System.out.println("m1");
 	}
-	public void m(2)
+	public void m()
 	{
 		System.out.println("m2");
 	}
