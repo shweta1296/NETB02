@@ -7,7 +7,7 @@ public class Demo {
 	}
 	public void m()
 	{
-		System.out.println("m2");
+		System.out.println("m2ooo");
 	}
 	public static void main(String args[])
 	{
