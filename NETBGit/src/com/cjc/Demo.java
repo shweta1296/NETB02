@@ -14,6 +14,11 @@ public class Demo {
 		System.out.println("m3----1");
 		System.out.println("m3---2");
 	}
+	public void m4()
+	{
+		System.out.println("m3----1");
+		System.out.println("m3---2");
+	}
 	
 	public static void main(String args[])
 	{
